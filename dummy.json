@@ -1,0 +1,42 @@
+[
+    {
+        "firstName": "Mia",
+        "lastName": "Khalifa",
+        "occupation": "Actor",
+        "photoURL": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2015_02/835681/150106-mia-khalifa-830a.jpg",
+        "age": 27,
+        "id": 1,
+        "passes": [],
+        "swipeRight": []
+    },
+    {
+        "firstName": "Guddu",
+        "lastName": "Pandit",
+        "occupation": "Bodybuilder",
+        "photoURL": "https://pbs.twimg.com/profile_images/1316631425685155841/pE_j6Rmq_400x400.jpg",
+        "age": 30,
+        "id": 2,
+        "passes": [],
+        "swipeRight": []
+    },
+    {
+        "firstName": "Ganesh",
+        "lastName": "Gaitonde",
+        "occupation": "King of Mumbai",
+        "photoURL": "https://gumlet.assettype.com/dtnext/import/Articles/2019/Aug/201908011334340218_Didnt-question-or-judge-Ganesh-Gaitonde-Nawazuddin_SECVPF.gif?w=1200&h=675&auto=format%2Ccompress&fit=max",
+        "age": 32,
+        "id": 3,
+        "passes": [],
+        "swipeRight": []
+    },
+    {
+        "firstName": "Rashmika",
+        "lastName": "Mandana",
+        "occupation": "Actor",
+        "photoURL": "https://www.prameyanews.com/wp-content/uploads/2022/03/rashmikamandanna.webp",
+        "age": 28,
+        "id": 4,
+        "passes": [],
+        "swipeRight": []
+    }
+]
